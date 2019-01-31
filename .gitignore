@@ -1,0 +1,5 @@
+build/
+dist/
+drf_fkrelatedfield.egg-info
+.idea
+.pypirc
